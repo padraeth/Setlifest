@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Today"},{"path":"/habits","title":"Habits"},{"path":"/tasks","title":"Tasks"},{"path":"/goals","title":"Goals"},{"path":"/roadmap","title":"Roadmap"},{"path":"/courses","title":"Learning"},{"path":"/courses/:courseId","title":"Course detail"},{"path":"/settings","title":"Settings"}]}
